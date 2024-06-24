@@ -19,6 +19,7 @@ To use this application, follow the steps below:
 3. Run the compiled executable to start the application.
 
 <h3>Example commands</h3>
+
 1. Adding a New Student:<br>
    First Name: John<br>
    Last Name: Doe<br>
