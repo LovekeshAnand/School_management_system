@@ -19,23 +19,23 @@ To use this application, follow the steps below:
 3. Run the compiled executable to start the application.
 
 <h3>Example commands</h3>
-1. Adding a New Student:
-   First Name: John
-   Last Name: Doe
-   Roll No.: 123
-   Phone No.: 9876543210
-   Semester: 5
+1. Adding a New Student:<br>
+   First Name: John<br>
+   Last Name: Doe<br>
+   Roll No.: 123<br>
+   Phone No.: 9876543210<br>
+   Semester: 5<br>
 
-2. Finding Student Details by Roll Number:
+2. Finding Student Details by Roll Number:<br>
    Enter the roll number of the student you want to find: 123
 
-3. Finding Students by Semester:
+3. Finding Students by Semester:<br>
    Enter the semester: 5
 
-4. Deleting Student Details:
+4. Deleting Student Details:<br>
    Enter the Roll no. you want to delete: 123
 
-5. Updating Student Details:
+5. Updating Student Details:<br>
    Enter the roll no. of the student to update details: 123
    Choose the detail you want to update: First Name, Last Name, Roll no., Phone no., Semester
 
