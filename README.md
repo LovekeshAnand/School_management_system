@@ -1,5 +1,5 @@
 # School_management_system
-Welcome to the School Management System project! This project is designed to help manage student details such as adding new students, finding student details by roll number or semester, updating student details, and deleting student records. This is my first project in the C programming language.
+elcome to the School Management System project! This project is designed to help manage student details such as adding new students, finding student details by roll number or semester, updating student details, and deleting student records. This is my first project in the C programming language.
 
 <h2>Project Description</h2>
 The School Management System is a console-based application developed in C that allows users to perform various operations related to student management. The primary functionalities include:
