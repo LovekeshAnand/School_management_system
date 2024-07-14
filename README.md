@@ -25,7 +25,7 @@ To use this application, follow the steps below:
    Last Name: Doe<br>
    Roll No.: 123<br>
    Phone No.: 9876543210<br>
-   Semester: 5
+   Semester: 5<br>
 
 2. Finding Student Details by Roll Number:<br>
    Enter the roll number of the student you want to find: 123
